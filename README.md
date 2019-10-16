@@ -3,3 +3,6 @@ This is repo for make a hello world, but use any programming language, you can p
 
 # C Language
 printf("Hello World");
+
+# Kotlin Language
+println("Hello, world!")
